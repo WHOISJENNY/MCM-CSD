@@ -8,9 +8,7 @@ Install related dependencies:
 pip install -r requirements.txt
 ```
 ### Dataset
-In this paper, we focus on the text-based ERC, while some datasets are video resources. The original datasets can be found at [IEMOCAP](https://sail.usc.edu/iemocap/),[MELD](https://github.com/declare-lab/MELD),[DailyDialog](http://yanran.li/dailydialog
-
-) and [EmoryNLP](https://github.com/emorynlp/emotion-detection).
+In this paper, we focus on the text-based ERC, while some datasets are video resources. The original datasets can be found at [IEMOCAP](https://sail.usc.edu/iemocap/),[MELD](https://github.com/declare-lab/MELD),[DailyDialog](http://yanran.li/dailydialog) and [EmoryNLP](https://github.com/emorynlp/emotion-detection).
 
 Besides, we also provide the processed datasets(only in textual modality) that we use. You can download it from https://pan.baidu.com/s/18bp5mmQjYGLiRBs7HdNqzw.
 password：1mew
