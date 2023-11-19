@@ -1,7 +1,7 @@
 # MCM-CSD
 This repository contains the dataset and code for our paper: MCM-CSD: MULTI-GRANULARITY CONTEXT MODELING WITH CONTRASTIVE SPEAKER DETECTION FOR EMOTION RECOGNITION IN REAL-TIME CONVERSATION
 
-**The complete code will be realeased after our paper is accepted.**
+**The complete code will be realeased after the review.**
 
 ## Quick Start
 ### Requirements
@@ -16,7 +16,7 @@ Besides, we also provide the processed datasets(only in textual modality) that w
 password：1mew
 
 ### Run Examples
-The complete code will be realeased after our paper is accepted.
+The complete code will be realeased after the review.
 
 
 
